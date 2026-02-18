@@ -6,6 +6,12 @@ Me enfoco en crear soluciones robustas, escalables y mantenibles, aplicando buen
 
 ---
 
+## 📫 Conecta conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-duque-gomez-lobo/)
+
+---
+
 ## 🚀 Sobre mí
 
 - 🧠 Experiencia en diseño e implementación de soluciones back-end.
@@ -54,19 +60,3 @@ Me enfoco en crear soluciones robustas, escalables y mantenibles, aplicando buen
 - Colaboración con perfiles técnicos y de negocio para asegurar la entrega de valor.
 
 ---
-
-## 🎓 Formación
-
-🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma  
-🎓 Técnico en Sistemas Microinformáticos y Redes  
-
----
-
-## 📫 Conecta conmigo
-
-<!-- Sustituye el enlace cuando quieras -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)](AQUI_TU_LINK_DE_LINKEDIN)
-
----
-
-⭐️ Gracias por visitar mi perfil  
