@@ -10,7 +10,7 @@
     </div>
     <div align="center">
         <p>
-                <a href="" target="_blank">
+                <a href="https://www.linkedin.com/in/aaron-duque-gomez-lobo/" target="_blank">
                     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&label=" height="30"/>
                 </a>
                 <a href="mailto:aduquebusiness@gmail.com" style="text-decoration:none;">
