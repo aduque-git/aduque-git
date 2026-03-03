@@ -35,5 +35,22 @@
         <img src="https://img.shields.io/badge/Mockito-78A641?style=flat&logo=mockito&logoColor=white" height="28"/>
       </p>   
     </div>
+    <div align="center">
+
+  <div style="display:inline-block; vertical-align:middle;">
+        <img src="assets/avatar.png" width="150" style="border-radius:12px;" />
+      </div>
+      <div style="display:inline-block; vertical-align:middle; text-align:left; max-width:400px; margin-left:20px;">
+        <h2>About Me</h2>
+        <p>
+          Backend Developer specialized in Java and the Spring ecosystem.
+          Focused on clean architecture, scalable APIs, and maintainable systems.
+        </p>
+        <p>
+          Experience building secure enterprise applications with relational databases,
+          Spring Security, JPA, and strong testing practices using JUnit and Mockito.
+        </p>
+      </div>
+    </div>
 
 </div>
