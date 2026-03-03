@@ -36,20 +36,21 @@
       </p>   
     </div>
     <div align="center">
-
-  <div style="display:inline-block; vertical-align:middle;">
-        <img src="assets/avatar.png" width="150" style="border-radius:12px;" />
+    <h2> </h2>
+      <div style="display:inline-block; vertical-align:middle;">
+            <img src="aboutme.png" width="150" style="border-radius:12px;" />
       </div>
       <div style="display:inline-block; vertical-align:middle; text-align:left; max-width:400px; margin-left:20px;">
         <h2>About Me</h2>
         <p>
-          Backend Developer specialized in Java and the Spring ecosystem.
-          Focused on clean architecture, scalable APIs, and maintainable systems.
-        </p>
-        <p>
-          Experience building secure enterprise applications with relational databases,
-          Spring Security, JPA, and strong testing practices using JUnit and Mockito.
-        </p>
+            I genuinely enjoy backend development and everything that happens behind the scenes of an application — designing APIs, structuring logic, and making systems behave exactly as they should.
+          </p>
+          <p>
+            Most of my work revolves around Java and the Spring ecosystem, building services that are clean, reliable, and easy to evolve over time without turning into chaos.
+          </p>
+          <p>
+            Beyond the technical side, I’m driven by curiosity and constant improvement. I like understanding how things work under the hood and refining both my code and my approach with every project.
+          </p>
       </div>
     </div>
 
