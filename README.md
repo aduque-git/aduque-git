@@ -35,23 +35,24 @@
         <img src="https://img.shields.io/badge/Mockito-78A641?style=flat&logo=mockito&logoColor=white" height="28"/>
       </p>   
     </div>
-    <div align="center">
-    <h2> </h2>
-      <div style="display:inline-block; vertical-align:middle;">
-            <img src="aboutme.png" width="150" style="border-radius:12px;" />
-      </div>
-      <div style="display:inline-block; vertical-align:middle; text-align:left; max-width:400px; margin-left:20px;">
-        <h2>About Me</h2>
+    <hr>
+    <span>
+    ⚙️ About Me
+    </span>
+</div>
+<hr>
+</div>
+    <div>
         <p>
             I genuinely enjoy backend development and everything that happens behind the scenes of an application — designing APIs, structuring logic, and making systems behave exactly as they should.
-          </p>
-          <p>
+        </p>
+        <p>
             Most of my work revolves around Java and the Spring ecosystem, building services that are clean, reliable, and easy to evolve over time without turning into chaos.
-          </p>
-          <p>
+        </p>
+        <p>
             Beyond the technical side, I’m driven by curiosity and constant improvement. I like understanding how things work under the hood and refining both my code and my approach with every project.
-          </p>
-      </div>
+        </p>
     </div>
-
 </div>
+
+
