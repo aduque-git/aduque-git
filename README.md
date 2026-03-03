@@ -4,16 +4,14 @@
       </a>
     </div>
     <div align="center">
-        <div>
-            <a href="" target="_blank">
-                <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&label=" height="30"/>
-            </a>
-        </div>
-        <div>
-            <a href="mailto:aduquebusiness@gmail.com" style="text-decoration:none;">
-                <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white&label=" height="30"/>
-            </a>
-        </div>
+        <p>
+                <a href="" target="_blank">
+                    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&label=" height="30"/>
+                </a>
+                <a href="mailto:aduquebusiness@gmail.com" style="text-decoration:none;">
+                    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white&label=" height="30"/>
+                </a>
+        </p>
     </div>
 
 </div>
