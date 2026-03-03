@@ -1,62 +1,14 @@
-# 👨🏻‍💻 Back-end developer | Java | Spring Boot | SQL PL/SQL | Microservicios |
-
-💻 Desarrollador Back-end especializado en el desarrollo de aplicaciones empresariales, con experiencia trabajando en entornos de alta exigencia, arquitecturas modernas y equipos multidisciplinares.
-
-Me enfoco en crear soluciones robustas, escalables y mantenibles, aplicando buenas prácticas de desarrollo y metodologías ágiles para aportar valor real al negocio.
-
----
-
-## 📫 Conecta conmigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-duque-gomez-lobo/)
-
----
-
-## 🚀 Sobre mí
-
-- 🧠 Experiencia en diseño e implementación de soluciones back-end.
-- 🔧 Desarrollo y evolución de servicios y plataformas en producción.
-- 🔌 Construcción e integración de APIs y servicios.
-- 🏗️ Trabajo con arquitecturas basadas en microservicios.
-- 🌍 Colaboración con equipos internacionales y entornos distribuidos.
-- 📈 Enfoque en rendimiento, calidad de código y mantenibilidad.
-- 🤝 Trabajo en equipo bajo metodologías ágiles.
-
----
-
-## 🛠️ Stack Tecnológico
-
-**Lenguajes y frameworks**
-- Java  
-- Spring Boot · Spring MVC · Spring Data · Spring JPA · Spring Security  
-- JSF  
-
-**Arquitectura y servicios**
-- API REST  
-- SOAP  
-- Microservicios  
-
-**Persistencia y datos**
-- SQL · PL/SQL  
-- Hibernate · MyBatis  
-
-**Herramientas y metodologías**
-- Git  
-- Jira  
-- Scrum  
-
----
-
-## 💼 Qué he hecho profesionalmente
-
-✨ A lo largo de mi trayectoria he trabajado en:
-
-- Desarrollo y mantenimiento evolutivo de plataformas software.
-- Implementación de nuevas funcionalidades alineadas con requisitos funcionales.
-- Diseño y construcción de APIs para integración entre sistemas.
-- Modelado y gestión de bases de datos.
-- Optimización de rendimiento y mejora continua de aplicaciones.
-- Adaptación de soluciones a diferentes contextos y normativas.
-- Colaboración con perfiles técnicos y de negocio para asegurar la entrega de valor.
-
----
+<div>
+    <div align=center>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&height=20&lines=Back-end+Developer;Java%7CSpring%7CAPI%7CMicroservices%7CBD" alt="Typing SVG" /></a>
+    </div>
+    <div align="center">
+      <a href="https://www.linkedin.com/in/ahmedfathydev/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&label=" height="30"/>
+      </a>
+      &nbsp;&nbsp;
+      <a href="mailto:tuemail@dominio.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white&label=" height="30"/>
+      </a>
+    </div>
+</div>
