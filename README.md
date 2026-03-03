@@ -1,4 +1,9 @@
 <div>
+    <div>
+        <p align="center">
+          <img src="banner.png" width="100%">
+        </p>
+    </div>
     <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&height=20&lines=Back-end+Developer;Java%7CSpring%7CAPI%7CMicroservices%7CBD" alt="Typing SVG"/>
       </a>
