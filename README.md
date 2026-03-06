@@ -55,4 +55,23 @@
     </div>
 </div>
 
+<!--<div align="center">
+  <p>Visitor count</p>
+  <img src="https://komarev.com/ghpvc/?username=aduque-git&style=flat-square&color=blue" />
+  <br/>
+</div>-->
+<hr>
+<span>
+    ⚙️ About Me
+</span>
+<hr>
+<div align="center">
+    <a href="https://github.com/aduque-git/REPO_1" target="_blank">
+        <img src="https://raw.githubusercontent.com/aduque-git/REPO_1/main/preview.png" height="120" alt="Proyecto 1"/>
+    </a>
+</a>
+
+
+
+
 
