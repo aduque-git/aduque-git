@@ -61,15 +61,26 @@
   <br/>
 </div>-->
 <hr>
-<span>
-    ⚙️ About Me
-</span>
+<span>🚀 Projects</span>
 <hr>
-<div align="center">
-    <a href="https://github.com/aduque-git/REPO_1" target="_blank">
-        <img src="https://raw.githubusercontent.com/aduque-git/REPO_1/main/preview.png" height="120" alt="Proyecto 1"/>
-    </a>
-</a>
+  <table width="100%" align="center">
+    <tr>
+        <td width="33%" align="center">
+        <a href="https://github.com/aduque-git/FlagSentinel">
+        <img src="FSentinel_portada.png" width="100%">
+        </a>
+        <b>FlagSentinel</b>
+        <br>
+        <sub>Spring Boot • Security • REST API • WebSocket</sub>
+        </td>
+         <td width="33%" align="center">
+        </td>
+    </tr>
+</table>
+
+<hr>
+
+
 
 
 
