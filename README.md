@@ -65,7 +65,7 @@
 <hr>
   <table width="100%" align="center">
     <tr>
-        <td width="33%" align="center">
+        <td style="border: 1px solid black; width="33%" align="center">
         <a href="https://github.com/aduque-git/FlagSentinel">
         <img src="FSentinel_portada.png" width="100%">
         </a>
@@ -73,7 +73,7 @@
         <br>
         <sub>Spring Boot • Security • REST API • WebSocket</sub>
         </td>
-         <td width="33%" align="center">
+         <td width="66%" align="center">
         </td>
     </tr>
 </table>
