@@ -16,6 +16,9 @@
                 <a href="mailto:aduquebusiness@gmail.com" style="text-decoration:none;">
                     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white&label=" height="30"/>
                 </a>
+                <a href="Aaron_Duque_Backend_CV.pdf" target="_blank">
+                    <img src="https://img.shields.io/badge/CV-Download-FF6B00?style=flat&logo=readthedocs&logoColor=white&label=" height="30"/>
+                </a>
         </p>
     </div>
     <div align="center">
