@@ -86,14 +86,14 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<table>
+<hr>
 
 <table width="50%" align="center">
-    <td>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aduque-git&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <td width="50%">
+        <img height="100%" width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aduque-git&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     </td>
-     <td>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aduque-git&layout=compact&langs_count=8&theme=algolia"/>
+     <td width="50%">
+        <img height="100%" width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aduque-git&layout=compact&langs_count=8&theme=algolia"/>
     </td>
 </table>
 <hr>
