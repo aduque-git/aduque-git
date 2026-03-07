@@ -63,23 +63,21 @@
 <hr>
 <span>🚀 Projects</span>
 <hr>
-  <table width="100%" align="center">
+  <table width="50%" align="center">
     <tr>
-        <td style="border: 1px solid black; width="33%" align="center">
-        <a href="https://github.com/aduque-git/FlagSentinel">
-        <img src="FSentinel_portada.png" width="100%">
-        </a>
-        <b>FlagSentinel</b>
-        <br>
-        <sub>Spring Boot • Security • REST API • WebSocket</sub>
+        <td style="border: 1px solid black; width="33%">
+            <b>FlagSentinel</b>
+            <br>   
+            <a href="https://github.com/aduque-git/FlagSentinel">
+                <img src="FSentinel_portada.png" width="100%">
+            </a>
+            <sub>Spring Boot • Security • REST API • WebSocket</sub>
         </td>
-         <td width="66%" align="center">
+        <td width="50%">
         </td>
     </tr>
 </table>
-
 <hr>
-
 
 
 
