@@ -38,11 +38,11 @@
         <img src="https://img.shields.io/badge/Mockito-78A641?style=flat&logo=mockito&logoColor=white" height="28"/>
       </p>   
     </div>
-    <hr>
-    <span>
-    ⚙️ About Me
-    </span>
 </div>
+<hr>
+
+### ⚙️ &nbsp;About Me
+
 <hr>
 </div>
     <div>
@@ -64,7 +64,9 @@
   <br/>
 </div>-->
 <hr>
-<span>🚀 Projects</span>
+
+### 🚀 &nbsp;Projects
+
 <hr>
   <table width="50%" align="center">
     <tr>
@@ -80,6 +82,17 @@
         </td>
     </tr>
 </table>
+<hr>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/aduque-git">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aduque-git&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aduque-git&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <hr>
 
 
