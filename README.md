@@ -19,7 +19,7 @@
                 <a href="cvAaronDuque2026.pdf" target="_blank">
                     <img src="https://img.shields.io/badge/CV-4A90E2?style=flat&logo=readthedocs&logoColor=white" height="30"/>
                 </a>
-                <a href="https://aduque.netlify.app/" target="_blank">
+                <a href="https://aduquedev.netlify.app/" target="_blank">
                     <img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=readthedocs&logoColor=white&label=" height="30"/>
                 </a>
         </p>
